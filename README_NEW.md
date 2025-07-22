@@ -9,7 +9,7 @@
 
 <br>
   
-### 💻 Software Developer | React.js, Next.js & Java Spring Boot Expert | Open to Opportunities
+### 💻 Software Developer | React & Java Spring Boot Expert | Open to Opportunities
 
 **🌐 Live Projects Portfolio:**
 [![MJ Fabrication](https://img.shields.io/badge/🏭_MJ_Fabrication-Live_Site-success?style=for-the-badge&logo=firefox&logoColor=white)](https://mjfabrication.in/)
@@ -42,13 +42,11 @@ const akhil = {
   education: "B.E. Computer Engineering (Gujarat Technological University)",
   availability: "Open for freelance projects & full-time opportunities",
   passion: "Building scalable enterprise applications with modern technologies",
-  currentFocus: "React.js, Next.js, jQuery & Java Spring Boot 17",
+  currentFocus: "React.js, Next.js, Java Spring Boot, and Cloud Technologies",
   specialties: [
-    "Frontend Development (React, Next.js, jQuery)",
-    "Backend API Development (Spring Boot)",
-    "GIS Integration (OpenLayers)",
-    "Database Design (PostgreSQL)",
-    "Web Hosting & Deployment"
+    "Reusable Component Development",
+    "State Management",
+    "API Integration",
   ],
   motto: "YOUR ONLY LIMIT IS YOU 🚀",
 };
@@ -72,31 +70,21 @@ while (akhil.learning) {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=react&logoColor=white)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Database & Storage
+### Frontend Technologies
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### GIS & Mapping
-
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat&logo=openlayers&logoColor=white)
-
-### Hosting & Deployment
-
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-
-### Content Management
-
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Tools & Technologies
@@ -118,7 +106,7 @@ while (akhil.learning) {
 
 ### 🏭 [MJ Fabrication Website](https://mjfabrication.in/) | [Code](https://github.com/Akhil-Prajapati/Mj-Fabrication-workspace)
 
-**React.js | Java Spring Boot 17 | PostgreSQL | Hostinger** • **🌐 LIVE PROJECT**
+**Vite | Java Spring Boot | PostgreSQL** • **🌐 LIVE PROJECT**
 
 - Complete fabrication business website with modern design
 - Professional company portfolio and service showcase
@@ -128,7 +116,7 @@ while (akhil.learning) {
 
 ### 🔬 [D&K Scientific Website](https://www.dandkscientific.com/)
 
-**React.js | Professional Web Development | Hostinger** • **🌐 LIVE PROJECT**
+**React.js | Professional Web Development | Hosting** • **🌐 LIVE PROJECT**
 
 - Scientific equipment and services company website
 - Professional corporate design with product catalogs
@@ -138,7 +126,7 @@ while (akhil.learning) {
 
 ### 🔐 [Deep Insurance Platform](https://deepinsurance.vercel.app/) | [Code](https://github.com/Akhil-Prajapati/deep-insurance)
 
-**React.js | Java Spring Boot 17 | RESTful APIs** • **🚀 STAGING DEMO**
+**React.js | TypeScript | Mobile Design** • **🚀 STAGING DEMO**
 
 - Comprehensive insurance management and claim processing system
 - Advanced state management and component architecture
@@ -147,7 +135,7 @@ while (akhil.learning) {
 
 ### 💼 [Professional Portfolio](https://akhilprajapati.com/)
 
-**Next.js | React.js | Modern Design** • **🌐 LIVE PORTFOLIO**
+**Next.js | TypeScript | Modern Design** • **🌐 LIVE PORTFOLIO**
 
 - Personal portfolio showcasing projects and professional journey
 - Optimized performance with Next.js and modern web practices
@@ -156,7 +144,7 @@ while (akhil.learning) {
 
 ### 🏛️ Major Contributor: [NCOG Haj Portal](https://app.ncog.gov.in/haj/home/)
 
-**Enterprise Government Application | React.js | Java Spring Boot** • **🌐 LIVE GOVERNMENT SYSTEM**
+**Enterprise Government Application** • **🌐 LIVE GOVERNMENT SYSTEM**
 
 - Key contributor to national government portal for Haj services
 - Large-scale application serving thousands of users
