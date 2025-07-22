@@ -1,0 +1,121 @@
+AKHIL PRAJAPATI
+Frontend Developer | Full Stack Developer
+
+Email: akhilprajapati99@gmail.com
+Phone: +91 7574079676
+Location: Ahmedabad, India (Open to relocation: US, Canada, Australia, Poland)
+Portfolio: https://akhilprajapati.com
+LinkedIn: linkedin.com/in/your-profile
+GitHub: github.com/Akhil-Prajapati
+
+PROFESSIONAL SUMMARY
+
+Frontend Developer and Full Stack Developer with 3+ years of experience building scalable web applications using React.js, Next.js, jQuery, and Java Spring Boot 17. Proven track record delivering live production websites for businesses and contributing to government-level enterprise applications. Expert in PostgreSQL database design, GIS integration with OpenLayers, and web hosting solutions. Available for remote work and international relocation.
+
+TECHNICAL SKILLS
+
+Frontend Development:
+React.js, Next.js, jQuery, JavaScript (ES6+), TypeScript, HTML5, CSS3, Responsive Design, Mobile-First Development, Component Architecture, State Management, Cross-Browser Compatibility
+
+Backend Development:
+Java Spring Boot 17, Spring Framework, RESTful APIs, Microservices, JWT Authentication, Spring Security
+
+Database & Storage:
+PostgreSQL, SQL, Database Design, Spring Data JPA, Hibernate, Data Modeling
+
+Web Technologies:
+Git, GitHub, VS Code, IntelliJ IDEA, Postman, NPM, Webpack, Vite, AJAX, JSON, HTTP/HTTPS
+
+GIS & Mapping:
+OpenLayers, Interactive Maps, Geospatial Integration
+
+Hosting & CMS:
+Hostinger, cPanel, WordPress, Custom Theme Development, Domain Management
+
+PROFESSIONAL EXPERIENCE
+
+Software Developer | Gandhinagar, India
+March 2023 - Present
+
+• Enterprise Application Development: Built reusable React.js components for complex enterprise applications, improving development efficiency by 30%
+• Government Portal Contribution: Major contributor to NCOG Haj Portal (app.ncog.gov.in/haj/home/), a national government system serving thousands of users
+• Backend API Development: Developed robust REST APIs using Java Spring Boot 17 with PostgreSQL database integration
+• Performance Optimization: Implemented efficient state management patterns and optimized application performance
+• Team Collaboration: Worked with backend developers and UI/UX designers for seamless project delivery
+
+Technologies: React.js, Java Spring Boot 17, PostgreSQL, RESTful APIs, Git
+
+Web Developer | THEBABYBO, Ahmedabad
+February 2021 - September 2023
+
+• Frontend Leadership: Led development of responsive websites using React.js, jQuery, and modern CSS
+• Full Stack Development: Built complete web applications with frontend and backend integration
+• WordPress Development: Created custom WordPress themes and plugins for client requirements
+• Client Project Management: Successfully delivered multiple client projects with 100% satisfaction
+• UI/UX Implementation: Transformed design mockups into pixel-perfect responsive interfaces
+
+Technologies: React.js, jQuery, HTML5, CSS3, JavaScript, WordPress, MySQL
+
+Freelance Full Stack Developer
+January 2021 - Present
+
+• MJ Fabrication Website (mjfabrication.in): Business website using React.js, Java Spring Boot 17, PostgreSQL, Hostinger
+• D&K Scientific Website (dandkscientific.com): Corporate website using React.js and professional web development
+• Deep Insurance Platform (deepinsurance.vercel.app): Full-stack insurance management system with React.js and Java Spring Boot 17
+• Successfully delivered 5+ live production websites with 100% uptime
+• Achieved excellent performance scores on Google PageSpeed Insights
+
+EDUCATION
+
+Bachelor of Engineering in Computer Engineering
+Gujarat Technological University, Ahmedabad, India
+2016 - 2020
+
+Higher Secondary Education (Science)
+Gujarat Secondary and Higher Secondary Education Board
+2014 - 2016
+
+PROJECTS
+
+MJ Fabrication Business Website | mjfabrication.in
+React.js, Java Spring Boot 17, PostgreSQL, Hostinger
+Complete fabrication company website with responsive design, business portfolio, contact management, SEO optimization
+Status: Live production website
+
+D&K Scientific Corporate Website | dandkscientific.com
+React.js, Professional Web Development, Hostinger
+Scientific equipment company website with product catalogs, B2B design, responsive layouts
+Status: Live production website
+
+Deep Insurance Management Platform | deepinsurance.vercel.app
+React.js, Java Spring Boot 17, RESTful APIs, PostgreSQL
+Insurance management system with advanced React architecture, user authentication, claim processing
+Status: Live staging demo
+
+NCOG Haj Portal (Government Project) | app.ncog.gov.in/haj/home
+Enterprise Technologies, React.js, Java Spring Boot
+National government portal for Haj services, large-scale application serving thousands of users
+Role: Major contributor to frontend and backend development
+
+LANGUAGES
+
+English: Professional working proficiency
+Hindi: Native proficiency
+Gujarati: Native proficiency
+
+VISA STATUS & AVAILABILITY
+
+• Open to H1B sponsorship (US)
+• Interested in Express Entry/PNP programs (Canada)
+• Available for skilled migration (Australia)
+• EU work authorization welcome (Poland)
+• Available for remote work globally
+• Currently in India, available for relocation
+
+POSITION TYPES SOUGHT
+
+Frontend Developer, Full Stack Developer, JavaScript Developer, Web Developer, Software Engineer
+
+EMPLOYMENT PREFERENCES
+
+Full-time permanent, Contract (6+ months), Remote work, Hybrid arrangements
