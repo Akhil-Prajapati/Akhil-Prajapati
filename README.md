@@ -5,15 +5,20 @@
 ### 🚀 Software Developer | React & Java Spring Boot Expert | Open to Opportunities
 
 **🌐 Live Projects Portfolio:**
-[![MJ Fabrication](https://img.shields.io/badge/🏭_MJ_Fabrication-Live_Site-success?style=flat-square)](https://mjfabrication.in/)
-[![D&K Scientific](https://img.shields.io/badge/🔬_D&K_Scientific-Live_Site-success?style=flat-square)](https://www.dandkscientific.com/)
-[![Deep Insurance](https://img.shields.io/badge/🔐_Deep_Insurance-Demo-blue?style=flat-square)](https://deepinsurance.vercel.app/)
-[![NCOG Portal](https://img.shields.io/badge/🏛️_Govt_Portal-Contributor-orange?style=flat-square)](https://app.ncog.gov.in/haj/home/)
+[![MJ Fabrication](https://img.shields.io/ba[![Website](https://img.shields.io/badge/�_Portfolio-akhilprajapati.com-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
+[![Email](https://img.shields.io/badge/✉️_Email-akhilprajapati99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
 
-[![Website](https://img.shields.io/badge/Website-akhilprajapati.com-blue?style=for-the-badge&logo=google-chrome)](https://akhilprajapati.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:akhilprajapati99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/your-profile)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%207574079676-green?style=for-the-badge&logo=phone)](tel:+917574079676)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_7574079676-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/917574079676)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ahmedabad,India)🏭_MJ_Fabrication-Live_Site-success?style=for-the-badge&logo=firefox&logoColor=white)](https://mjfabrication.in/)
+[![D&K Scientific](https://img.shields.io/badge/🔬_D&K_Scientific-Live_Site-brightgreen?style=plastic&logo=chrome&logoColor=white)](https://www.dandkscientific.com/)
+[![Deep Insurance](https://img.shields.io/badge/🔐_Deep_Insurance-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://deepinsurance.vercel.app/)
+[![NCOG Portal](https://img.shields.io/badge/🏛️_Govt_Portal-Contributor-orange?style=flat&logo=government&logoColor=white)](https://app.ncog.gov.in/haj/home/)
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-akhilprajapati.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Phone](https://img.shields.io/badge/📱_Phone-+91_7574079676-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917574079676)
 
 </div>
 
@@ -51,29 +56,29 @@ while (akhil.learning) {
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge&logo=react&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=react&logoColor=white)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frontend Technologies
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -81,7 +86,7 @@ while (akhil.learning) {
 
 ### 🏭 [MJ Fabrication Website](https://mjfabrication.in/) | [Code](https://github.com/Akhil-Prajapati/Mj-Fabrication-workspace)
 
-**TypeScript | React | Modern Web Technologies** • **🌐 LIVE PROJECT**
+**Vite | Java Spring Boot | Postgres Sql** • **🌐 LIVE PROJECT**
 
 - Complete fabrication business website with modern design
 - Professional company portfolio and service showcase
@@ -91,7 +96,7 @@ while (akhil.learning) {
 
 ### 🔬 [D&K Scientific Website](https://www.dandkscientific.com/)
 
-**React.js | Professional Web Development** • **🌐 LIVE PROJECT**
+**React.js | Professional Web Development | Hosting** • **🌐 LIVE PROJECT**
 
 - Scientific equipment and services company website
 - Professional corporate design with product catalogs
@@ -101,7 +106,7 @@ while (akhil.learning) {
 
 ### 🔐 [Deep Insurance Platform](https://deepinsurance.vercel.app/) | [Code](https://github.com/Akhil-Prajapati/deep-insurance)
 
-**React.js | Java Spring Boot | RESTful APIs** • **🚀 STAGING DEMO**
+**React.js | TypeScript | Mobile Design** • **🚀 STAGING DEMO**
 
 - Comprehensive insurance management and claim processing system
 - Advanced state management and component architecture
@@ -228,12 +233,19 @@ _Gujarat Secondary and Higher Secondary Education Board_ | 2014 - 2016 | **EQF L
 
 ### 💡 "Building tomorrow's applications with today's best practices."
 
-**Available for:**
+<div align="center">
+  
+[![Hire Me](https://img.shields.io/badge/💼_Available_for_Hire-Open_to_Opportunities-success?style=for-the-badge&logo=handshake)](mailto:akhilprajapati99@gmail.com)
+[![Freelance](https://img.shields.io/badge/🚀_Freelance_Projects-Ready_to_Start-blue?style=for-the-badge&logo=rocket)](mailto:akhilprajapati99@gmail.com)
 
-- 💼 **Full-time opportunities** in React/Java development
-- 🚀 **Freelance projects** - Web applications & enterprise solutions
-- 🤝 **Consulting** - Architecture planning & code reviews
-- 🌟 **Open Source** - Collaborative development projects
+</div>
+
+**🎯 I'm Available For:**
+
+- 💼 **Full-time opportunities** • React/Java development roles
+- 🚀 **Freelance projects** • Web applications & enterprise solutions
+- 🤝 **Technical consulting** • Architecture planning & code reviews
+- 🌟 **Open source collaboration** • Community development projects
 
 </div>
 
