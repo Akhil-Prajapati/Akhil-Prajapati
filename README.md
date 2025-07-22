@@ -1,30 +1,38 @@
 # Hi there, I'm Akhil Prajapati! 👋
 
 <div align="center">
+
+<!-- Motivational Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Banner" width="100%" />
+
+### 🚀 **"YOUR ONLY LIMIT IS YOU"** 🚀
+
+<br>
   
-### 🚀 Software Developer | React & Java Spring Boot Expert | Open to Opportunities
+### 💻 Software Developer | React & Java Spring Boot Expert | Open to Opportunities
 
 **🌐 Live Projects Portfolio:**
-[![MJ Fabrication](https://img.shields.io/ba[![Website](https://img.shields.io/badge/�_Portfolio-akhilprajapati.com-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
-[![Email](https://img.shields.io/badge/✉️_Email-akhilprajapati99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_7574079676-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/917574079676)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ahmedabad,India)🏭_MJ_Fabrication-Live_Site-success?style=for-the-badge&logo=firefox&logoColor=white)](https://mjfabrication.in/)
+[![MJ Fabrication](https://img.shields.io/badge/🏭_MJ_Fabrication-Live_Site-success?style=for-the-badge&logo=firefox&logoColor=white)](https://mjfabrication.in/)
 [![D&K Scientific](https://img.shields.io/badge/🔬_D&K_Scientific-Live_Site-brightgreen?style=plastic&logo=chrome&logoColor=white)](https://www.dandkscientific.com/)
 [![Deep Insurance](https://img.shields.io/badge/🔐_Deep_Insurance-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://deepinsurance.vercel.app/)
 [![NCOG Portal](https://img.shields.io/badge/🏛️_Govt_Portal-Contributor-orange?style=flat&logo=government&logoColor=white)](https://app.ncog.gov.in/haj/home/)
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-akhilprajapati.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Phone](https://img.shields.io/badge/📱_Phone-+91_7574079676-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917574079676)
+**📞 Contact & Portfolio:**
+[![Website](https://img.shields.io/badge/🌐_Portfolio-akhilprajapati.com-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
+[![Email](https://img.shields.io/badge/✉️_Email-akhilprajapati99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_7574079676-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/917574079676)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ahmedabad,India)
 
 </div>
 
 ---
 
 ## 🎯 About Me
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+</div>
 
 ```typescript
 const akhil = {
@@ -40,6 +48,7 @@ const akhil = {
     "State Management",
     "API Integration",
   ],
+  motto: "YOUR ONLY LIMIT IS YOU 🚀"
 };
 
 while (akhil.learning) {
@@ -52,6 +61,10 @@ while (akhil.learning) {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
 
 ### Frontend
 
@@ -84,9 +97,15 @@ while (akhil.learning) {
 
 ## 🚀 Featured Projects
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+### ✨ **Building the Future, One Project at a Time** ✨
+</div>
+
 ### 🏭 [MJ Fabrication Website](https://mjfabrication.in/) | [Code](https://github.com/Akhil-Prajapati/Mj-Fabrication-workspace)
 
-**Vite | Java Spring Boot | Postgres Sql** • **🌐 LIVE PROJECT**
+**Vite | Java Spring Boot | PostgreSQL** • **🌐 LIVE PROJECT**
 
 - Complete fabrication business website with modern design
 - Professional company portfolio and service showcase
@@ -136,6 +155,8 @@ while (akhil.learning) {
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br><br>
   
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil-Prajapati&show_icons=true&theme=radical)
 
@@ -148,6 +169,10 @@ while (akhil.learning) {
 ---
 
 ## 🎯 What I'm Currently Working On
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
 
 - 🔭 Building **enterprise-grade React applications** with advanced state management
 - 🌱 Enhancing skills in **Java Spring Boot** and **microservices architecture**
@@ -197,6 +222,10 @@ _Gujarat Secondary and Higher Secondary Education Board_ | 2014 - 2016 | **EQF L
 
 ## 💼 Services I Offer
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
+</div>
+
 ### 🚀 For Businesses
 
 - **React Application Development** - Modern, scalable enterprise applications
@@ -225,25 +254,27 @@ _Gujarat Secondary and Higher Secondary Education Board_ | 2014 - 2016 | **EQF L
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-akhilprajapati.com-blue?style=for-the-badge)](https://akhilprajapati.com)
-[![Email](https://img.shields.io/badge/📧_Email-akhilprajapati99@gmail.com-red?style=for-the-badge)](mailto:akhilprajapati99@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone-+91_7574079676-green?style=for-the-badge)](tel:+917574079676)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/your-profile)
-[![Location](https://img.shields.io/badge/�_Location-Ahmedabad,_India-orange?style=for-the-badge)](https://maps.google.com/?q=Ahmedabad,India)
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738f3c4f-0b8e-4ca8-a4e5-4b9a69b20de6.gif" width="100"><br><br>
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-akhilprajapati.com-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
+[![Email](https://img.shields.io/badge/✉️_Email-akhilprajapati99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_7574079676-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/917574079676)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ahmedabad,India)
 
 ### 💡 "Building tomorrow's applications with today's best practices."
 
 <div align="center">
   
-[![Hire Me](https://img.shields.io/badge/💼_Available_for_Hire-Open_to_Opportunities-success?style=for-the-badge&logo=handshake)](mailto:akhilprajapati99@gmail.com)
-[![Freelance](https://img.shields.io/badge/🚀_Freelance_Projects-Ready_to_Start-blue?style=for-the-badge&logo=rocket)](mailto:akhilprajapati99@gmail.com)
+[![Hire Me](https://img.shields.io/badge/💼_Available_for_Hire-Open_to_Opportunities-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:akhilprajapati99@gmail.com)
+[![Freelance](https://img.shields.io/badge/🚀_Freelance_Projects-Ready_to_Start-blue?style=for-the-badge&logo=rocket&logoColor=white)](mailto:akhilprajapati99@gmail.com)
 
 </div>
 
 **🎯 I'm Available For:**
-
 - 💼 **Full-time opportunities** • React/Java development roles
-- 🚀 **Freelance projects** • Web applications & enterprise solutions
+- 🚀 **Freelance projects** • Web applications & enterprise solutions  
 - 🤝 **Technical consulting** • Architecture planning & code reviews
 - 🌟 **Open source collaboration** • Community development projects
 
@@ -252,9 +283,13 @@ _Gujarat Secondary and Higher Secondary Education Board_ | 2014 - 2016 | **EQF L
 ---
 
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 **⭐ Star my repositories if you find them useful!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhil-Prajapati&color=blueviolet)
+
+### 🚀 **"Code with passion, build with purpose, dream without limits!"** 🚀
 
 </div>
