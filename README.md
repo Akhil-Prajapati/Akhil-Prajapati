@@ -7,23 +7,25 @@
 
 ### 🚀 **"YOUR ONLY LIMIT IS YOU"** 🚀
 
-<br>
-  
 ### 💻 Software Developer | React.js, Next.js & Java Spring Boot Expert | Open to Opportunities
 
 **🌐 Live Projects Portfolio:**
 [![MJ Fabrication](https://img.shields.io/badge/🏭_MJ_Fabrication-Live_Site-success?style=for-the-badge&logo=firefox&logoColor=white)](https://mjfabrication.in/)
 [![D&K Scientific](https://img.shields.io/badge/🔬_D&K_Scientific-Live_Site-brightgreen?style=plastic&logo=chrome&logoColor=white)](https://www.dandkscientific.com/)
 [![Deep Insurance](https://img.shields.io/badge/🔐_Deep_Insurance-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://deepinsurance.vercel.app/)
-[![NCOG Portal](https://img.shields.io/badge/🏛️_Govt_Portal-Contributor-orange?style=flat&logo=government&logoColor=white)](https://app.ncog.gov.in/haj/home/)
+[![NCOG Portal](https://img.shields.io/badge/🏛️_Govt_Portal-Contributor-orange?style=flat&logo=government&logoColor=white)](https://gsi.gov.in/home/)
+
+**🚀 Upcoming Projects:**
+[![Homeopathic Clinic Management](https://img.shields.io/badge/🩺_Clinic_Management-Preview-9cf?style=for-the-badge&logo=vercel&logoColor=white)](https://homeopathic-clinic-management-platform.vercel.app/)
+
+**🧩 VS Code / Open VSX Extensions:**
+[![Ninja Runner](https://img.shields.io/badge/⚡_Ninja_Runner-Open_VSX-c160ef?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://open-vsx.org/extension/akhilninja/ninja-runner)
+[![Gravity Pulse](https://img.shields.io/badge/🌌_Gravity_Pulse-Open_VSX-c160ef?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://open-vsx.org/extension/akhilninja/gravity-pulse)
 
 **📞 Contact & Portfolio:**
-[![Website](https://img.shields.io/badge/🌐_Portfolio-akhilprajapati.com-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilprajapati.com)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-akhilninja-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhilninja.vercel.app/)
 [![Email](https://img.shields.io/badge/✉️_Email-akhilprajapati99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilprajapati99@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_7574079676-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/917574079676)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Location](https://img.shields.io/badge/📍_Based_in-Ahmedabad,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ahmedabad,India)
-
 </div>
 
 ---
